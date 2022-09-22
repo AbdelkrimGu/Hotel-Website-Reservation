@@ -21,5 +21,3 @@ The project contains six pages which are:
 5. About - This page contains some imfo about the hotel, features and services they offer and some of their mentions by famous brands.
 
 6. Contact - This page contains contact details of the hotel manageent which are physical address, email address, phone numbers and input fieldsto send a message.
-
-Live Url = https://abdulsamadayoade.github.io/La-Hotel
